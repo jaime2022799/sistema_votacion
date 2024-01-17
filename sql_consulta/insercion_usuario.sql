@@ -1,0 +1,2 @@
+INSERT INTO formulario_votacion(nombre_apellido,alias,rut,email,region,comuna,candidato,web,tv,RedesSociales,amigos)
+VALUES ('$Nombre_Apellido','$Alias','$Rut','$Email','$region','$comuna','$region','$candidato','$Web','$Tv','$RedesSociales','$Amigos')";
