@@ -1,0 +1,81 @@
+
+.input-wrapper_radio{
+    position: relative;
+    top: 50px;
+    
+}
+
+.input-wrapper_candidato{
+    position: relative;
+    top: 40px;
+}
+
+.input-wrapper_comuna{
+    position: relative;
+    top: 33px;
+}
+
+.input-wrapper_region{
+    position: relative;
+    top: 25px;
+}
+
+.input-wrapper_Email{
+    position: relative;
+    top: 18px;
+}
+
+.input-wrapper_Rut{
+    position: relative;
+    top: 10px;
+}
+
+.input-wrapper_alias{
+    position: relative;
+    top: 5px;
+}
+
+#Nombre_Apellido{
+    position: relative;
+    left: 60px;
+}
+
+
+#Alias{
+    position: relative;
+    left: 150px;
+}
+
+#Rut{
+    position: relative;
+    left: 160px;
+}
+
+#Email{
+    position: relative;
+    left: 145px;
+}
+
+#region{
+    position: relative;
+    left: 135px;
+    width: 170px;
+}
+
+#comuna{
+    position: relative;
+    left: 127px;
+    width: 170px;
+}
+
+#candidato{
+    position: relative;
+    left: 115px;
+    width: 170px;
+}
+
+.votar {
+    position: relative;
+    top: 60px;
+    width: 80px;
+}
